@@ -1,0 +1,1 @@
+This is a graphql demo taken to learn about graphql basics such as types,query,mutations,type checking.
